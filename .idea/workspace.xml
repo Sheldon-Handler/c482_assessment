@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42e66adb-5d37-4bb1-bf1f-8d04a76849c0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/ConstraintChecker.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/DeletePartErrorController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/Inventory.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/MainController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/Part.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/Product.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/c482_assessment/SaveErrorController.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="d5curw93" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BXzcOSeFvbci8VcEBd74T4oaLE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sheld/IdeaProjects/c482_assessment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.14941406&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sheld\IdeaProjects\c482_assessment\src\main\resources\com\example\c482_assessment" />
+      <recent name="C:\Users\sheld\IdeaProjects\c482_assessment\src\main\java\com\example\c482_assessment" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sheld\IdeaProjects\c482_assessment\src\main\java\com\example\c482_assessment" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Java 18" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.c482_assessment.ApplicationLoader" />
+      <module name="c482_assessment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\sheld\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42e66adb-5d37-4bb1-bf1f-8d04a76849c0" name="Changes" comment="" />
+      <created>1657067298521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657067298521</updated>
+      <workItem from="1657067301296" duration="1402000" />
+      <workItem from="1657122367606" duration="5901000" />
+      <workItem from="1657135614022" duration="1325000" />
+      <workItem from="1657206601818" duration="597000" />
+      <workItem from="1657207348521" duration="2821000" />
+      <workItem from="1657218286203" duration="21581000" />
+      <workItem from="1657474626198" duration="2606000" />
+      <workItem from="1657501683524" duration="1162000" />
+      <workItem from="1657502889210" duration="19975000" />
+      <workItem from="1657570567378" duration="26149000" />
+      <workItem from="1657824403647" duration="22163000" />
+      <workItem from="1658156467581" duration="30642000" />
+      <workItem from="1658258437114" duration="1602000" />
+      <workItem from="1658260193609" duration="15055000" />
+      <workItem from="1658336388560" duration="9005000" />
+      <workItem from="1658425310775" duration="8512000" />
+      <workItem from="1658500591145" duration="16469000" />
+      <workItem from="1658757703320" duration="20715000" />
+      <workItem from="1659018638178" duration="12922000" />
+      <workItem from="1659101735386" duration="6508000" />
+      <workItem from="1659108391297" duration="11000" />
+      <workItem from="1659108729765" duration="167000" />
+      <workItem from="1659108928943" duration="47000" />
+      <workItem from="1659109009821" duration="774000" />
+      <workItem from="1659279922766" duration="2868000" />
+      <workItem from="1659356430924" duration="181000" />
+      <workItem from="1659556675342" duration="3354000" />
+      <workItem from="1659705863172" duration="5435000" />
+      <workItem from="1661047540837" duration="413000" />
+      <workItem from="1661363735219" duration="195000" />
+      <workItem from="1661526627675" duration="2049000" />
+      <workItem from="1661788792188" duration="2696000" />
+      <workItem from="1661985654733" duration="1751000" />
+      <workItem from="1663010480796" duration="1406000" />
+      <workItem from="1663093526638" duration="650000" />
+      <workItem from="1663259065153" duration="3166000" />
+      <workItem from="1663336013348" duration="975000" />
+      <workItem from="1663465576397" duration="1153000" />
+      <workItem from="1663481292492" duration="2026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="c482_assessment" type="b2602c69:ProjectViewProjectNode" />
+        <item name="c482_assessment" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
